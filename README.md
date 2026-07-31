@@ -1,19 +1,34 @@
 ![Project header](./doc/header.drawio.svg)
 
-# Letní škola AI 2025
+# Letní škola AI 2026
 
 ## Poznámky pro všechny dny
 
-Prezentace na google drive:
-https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0vPg/edit?usp=sharing
+[Prezentace na Google Drive](https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0vPg/edit?usp=sharing)
 
 ## Podklady pro jednotlivé dny
 
 ### Den 1
 
-* [Poznámky](Den01/poznamky.ipynb)
-* [Úkoly](Den01/ukoly.ipynb)
+**Cíl:**
+- Umět psát a číst jednoduché programy v Pythonu.
+- Umět vysvětlit jaké druhy AI existují.
+
+**Podklady:**
+
+* [Poznámky](Den01/poznamky.ipynb) - Programování v Pythonu.
+* [Úkoly](Den01/ukoly.ipynb) - Zadání úkolů. Můžete si stáhnout tento notebook a pracovat v něm.
 * [Vyřešené úkoly](Den01/ukoly_reseni.ipynb) - Řešení ukazovaná na hodině. Nemusí být nutně optimální ani zcela správná.
+
+**Domácí práce:** Zkuste odpovědět na následující otázky. Pokud odpověď neznáte, vyhledejte ji v libovolných zdrojích. Klíčové je odpovědi nejen znát, ale také jim rozumět a umět je vysvětlit vlastními slovy.
+
+1. Jaký je rozdíl mezi klasickým programem s pravidly vytvořenými programátorem a programem založeným na strojovém učení? Uveďte příklad obou přístupů.
+2. Co je model strojového učení a co se s ním během učení děje?
+3. Co jsou trénovací a testovací data? Proč bychom neměli model učit a hodnotit na stejných datech?
+4. Jak mohou množství, kvalita a rozmanitost trénovacích dat ovlivnit výsledky modelu?
+5. K čemu v programování slouží funkce definovaná pomocí `def`? Jaké výhody má oproti opakovanému psaní stejného kódu?
+6. Kdy je vhodnější použít smyčku `for` a kdy smyčku `while`? Uveďte ke každé jeden konkrétní příklad.
+
 
 ### Den 2
 
