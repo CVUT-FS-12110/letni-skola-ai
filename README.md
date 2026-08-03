@@ -29,6 +29,8 @@
 5. K čemu v programování slouží funkce definovaná pomocí `def`? Jaké výhody má oproti opakovanému psaní stejného kódu?
 6. Kdy je vhodnější použít smyčku `for` a kdy smyčku `while`? Uveďte ke každé jeden konkrétní příklad.
 
+Shlednete video (jsou k dispozici i titulky): [https://youtu.be/aircAruvnKk](https://youtu.be/aircAruvnKk)
+
 
 ### Den 2
 
