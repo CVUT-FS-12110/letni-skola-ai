@@ -34,7 +34,7 @@ Shlednete video (jsou k dispozici i titulky): [https://youtu.be/aircAruvnKk](htt
 
 ### Den 2
 
-- [Návod](https://colab.research.google.com/drive/1Lsu2TbDjd5a3ctgx0jQB_E7k02kXAURb?usp=sharing)
+- [Návod](Den02/02_time_series.ipynb)
 - Úkoly:
   1. Pomocí webové aplikace [zde: ](https://ls.in4you.cz/) nasbírejte data z akcelerometru
   1. Stáhněte data z akcelerometru
