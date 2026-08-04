@@ -34,10 +34,11 @@ Shlednete video (jsou k dispozici i titulky): [https://youtu.be/aircAruvnKk](htt
 
 ### Den 2
 
-- [Návod](Den02/02_time_series.ipynb)
+- Odvození modelu neuronu a jeho učení: [ZDE](https://ls.in4you.cz/odvozeni)
+- Sběr dat z akcelerometru: [ZDE](https://ls.in4you.cz/)
+- Návod na sběr a analýzu dat z akcelerometru: [ZDE](Den02/02_time_series.ipynb)
 - Úkoly:
   1. Pomocí webové aplikace [zde: ](https://ls.in4you.cz/) nasbírejte data z akcelerometru
-  1. Stáhněte data z akcelerometru
   1. Nahrajte data do google colab dle ukázky v Návodu výše
   1. Data zpracujte a klasifikujte druh pohybu dle ukázky v Návodu výše
   1. Bonus: Aplikujte další předzpracování dat jako např. plovoucí průměr, nebo normalizace dat
