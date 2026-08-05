@@ -34,6 +34,8 @@ https://docs.google.com/presentation/d/19Bru_x_dPSnMsZzaKhJQZnq8hpvSW3mhgIY67Wu0
 * [Úkol 1](Den03/ukol1.ipynb)
 * [Úkol 2](Den03/ukol2.ipynb)
 * [Úkol 3](Den03/ukol3.ipynb)
+* [Úkol 4](Den03/ukol4.ipynb)
+* [Úkol 5](Den03/ukol5.ipynb)
 
 * [Data](Den03/data/)
 * [Klasifikátory](Den03/classifiers/)
