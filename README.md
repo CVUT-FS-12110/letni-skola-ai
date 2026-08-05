@@ -53,6 +53,21 @@ Shlednete video (jsou k dispozici i titulky): [https://youtu.be/aircAruvnKk](htt
 * [Úkol 4](Den03/ukol4.ipynb)
 * [Úkol 5](Den03/ukol5.ipynb)
 
+* Odkazy:
+  - https://teachablemachine.withgoogle.com/
+  - https://adamharley.com/nn_vis/cnn/3d.html
+  - https://poloclub.github.io/diffusion-explainer/
+  - https://huggingface.co/spaces
+  - https://aidemos.meta.com/
+  - https://setosa.io/ev/image-kernels/
+  - https://universe.roboflow.com/
+
+
+* Úkol na doma:
+  - https://poloclub.github.io/transformer-explainer/
+  - https://bbycroft.net/llm
+
+
 - [Data](Den03/data/)
 - [Klasifikátory](Den03/classifiers/)
 
