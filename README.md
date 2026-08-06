@@ -73,9 +73,7 @@ Shlednete video (jsou k dispozici i titulky): [https://youtu.be/aircAruvnKk](htt
 
 ### Den 4
 
-- [HTTP requests](Den04/requests.ipynb)
-- [Grog API](Den04/groq.ipynb)
-- [Abuse emails](Den04/emails.ipynb)
+- [Chatbot](Den04/chatbot.ipynb)
 
 ### Den 5
 
